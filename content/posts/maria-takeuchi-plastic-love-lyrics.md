@@ -1,6 +1,6 @@
 ---
 date    : '2025-02-07T01:03:54+07:00'
-draft   : true
+draft   : false
 title   : 'Maria Takeuchi Plastic Love Lyrics'
 description : "Plastic Love by Mariya Takeuchi is one of the most iconic city pop songs of all time. Released in 1984 as part of her album Variety, the song blends smooth jazz, soft rock, and nostalgic melodies, creating a dreamy and melancholic atmosphere. Its lyrics tell the story of a woman reminiscing about a past love that felt real but was ultimately fleeting—just like plastic love. Over the years, the song has gained worldwide recognition, especially through YouTube, becoming a symbol of the city pop revival and Japanese 80s aesthetics"
 tags    : [Maria Takeuchi, 竹内 まりや]

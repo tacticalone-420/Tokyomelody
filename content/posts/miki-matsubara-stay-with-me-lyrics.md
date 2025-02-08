@@ -1,6 +1,6 @@
 ---
 date    : '2025-02-07T01:01:26+07:00'
-draft   : true
+draft   : false
 title   : 'Miki Matsubara Stay With Me Lyrics'
 description : "Stay With Me by Miki Matsubara is one of the most iconic city pop songs, known for its dreamy melody and emotional lyrics. Released in 1979, the song captures the feelings of longing and heartache as the singer pleads for a loved one to stay. With its smooth instrumentation, jazzy piano, and Matsubara’s powerful yet delicate vocals, Stay With Me evokes a nostalgic atmosphere, making it a timeless classic that continues to captivate listeners worldwide."
 tags    : [Miki Matsubara, 松原 みき]

@@ -1,6 +1,6 @@
 ---
 date    : '2025-02-07T01:07:02+07:00'
-draft   : true
+draft   : false
 title   : 'Momoko Kikuchi Good Friend Lyrics'
 description : "Good Friend by Momoko Kikuchi is a soft and sentimental city Pop ballad that reflects themes of friendship, nostalgia, and unspoken emotions. With its gentle melody and warm synth-driven arrangement, the song evokes a bittersweet feeling of cherishing precious memories with someone special. Momoko Kikuchi’s delicate and soothing vocals perfectly capture the essence of youthful innocence and heartfelt connections, making Good Friend a timeless and comforting listen."
 tags    : [Momoko Kikuchi, 菊池 桃子]
