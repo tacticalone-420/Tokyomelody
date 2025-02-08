@@ -2,7 +2,7 @@
 date    : '2025-02-09T00:09:24+07:00'
 draft   : false
 title   : 'Junko Yagami 黄昏のBay City Lyrics'
-description : "黄昏のBay City (Tasogare no Bay City / Twilight Bay City* by Junko Yagami is a melancholic yet smooth City Pop song that beautifully captures the wistful emotions of twilight by the bay. With its soulful melody and jazzy instrumentation, the song conveys a sense of longing and nostalgia, as if reminiscing about a past love or a fleeting moment in time. Junko Yagami’s rich and expressive vocals add depth to the atmosphere, making this track a timeless gem in the City Pop genre."
+description : "黄昏のBay City (Tasogare no Bay City / Twilight Bay City by Junko Yagami is a melancholic yet smooth City Pop song that beautifully captures the wistful emotions of twilight by the bay. With its soulful melody and jazzy instrumentation, the song conveys a sense of longing and nostalgia, as if reminiscing about a past love or a fleeting moment in time. Junko Yagami’s rich and expressive vocals add depth to the atmosphere, making this track a timeless gem in the City Pop genre."
 tags    : [Junko Yagami, 八神 純子]
 ---
 
