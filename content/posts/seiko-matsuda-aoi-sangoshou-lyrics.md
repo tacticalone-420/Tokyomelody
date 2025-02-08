@@ -3,6 +3,7 @@ date    : '2025-02-09T00:16:01+07:00'
 draft   : false
 title   : 'Seiko Matsuda Aoi Sangoshou Lyrics'
 description : "Aoi Sangoshou (Blue Coral Reef) by Seiko Matsuda, released in 1980, is a classic City Pop and idol song that captures the feeling of youthful romance and summer adventures. With its bright and refreshing melody, the song paints a dreamy picture of love blossoming by the sea, where the blue coral reef symbolizes fleeting yet beautiful memories. Seiko Matsuda’s sweet and delicate vocals make this song an enduring favorite, evoking a sense of nostalgia for the golden era of Japanese pop music."
+tags    : [Seiko Matsuda, 松田聖子]
 ---
 
 ## Youtube video

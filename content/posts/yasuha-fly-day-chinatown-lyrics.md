@@ -3,6 +3,7 @@ date    : '2025-02-09T00:12:24+07:00'
 draft   : false
 title   : 'Yasuha Fly-Day Chinatown Lyrics'
 description : "Fly-Day Chinatown is an iconic song by Yasuha, released in 1981. The song captures the mysterious and romantic atmosphere of Chinatown at night, with lyrics that take listeners on a colorful nighttime journey. Its signature City Pop melody, combined with Yasuha’s soft vocals, creates a captivating sense of nostalgia. This song has become a classic of the City Pop era, portraying the beauty of a city that never sleeps and a love story floating amidst the neon lights."
+tags    : [yasuha, 泰葉]
 ---
 
 ## Youtube video
