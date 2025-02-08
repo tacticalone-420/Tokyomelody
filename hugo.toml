@@ -1,0 +1,36 @@
+baseURL = "https://tacticalone-420.github.io/tokyomelody/"
+languageCode = "en-us"
+title = "Tokyo Melody"
+copyright = "© Tomz"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="light"
+	useCDN=false
+	subtitle = "A blog dedicated to preserving the beauty of Japanese City Pop lyrics, a music genre that blends pop, jazz, funk, and electronic touches from the 70s and 80s. Here, you can find song lyrics from various legendary artists, complete with translations and interpretations of their meanings. Tokyo Melody is here to take you on a journey through nostalgia and the dazzling nights of Tokyo, captured in the beautiful words of each song."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/tacticalone-420"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/tokyomelody420/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3

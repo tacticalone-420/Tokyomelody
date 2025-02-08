@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tokyo Melody</title>
+    <link>http://localhost:1313/tokyomelody/tags/</link>
+    <description>Recent content in Tags on Tokyo Melody</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Tomz</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 00:39:05 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tokyomelody/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anri</title>
+      <link>http://localhost:1313/tokyomelody/tags/anri/</link>
+      <pubDate>Sat, 08 Feb 2025 00:39:05 +0700</pubDate>
+      <guid>http://localhost:1313/tokyomelody/tags/anri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>杏里)</title>
+      <link>http://localhost:1313/tokyomelody/tags/%E6%9D%8F%E9%87%8C/</link>
+      <pubDate>Sat, 08 Feb 2025 00:39:05 +0700</pubDate>
+      <guid>http://localhost:1313/tokyomelody/tags/%E6%9D%8F%E9%87%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meiko Nakahara</title>
+      <link>http://localhost:1313/tokyomelody/tags/meiko-nakahara/</link>
+      <pubDate>Sat, 08 Feb 2025 00:38:55 +0700</pubDate>
+      <guid>http://localhost:1313/tokyomelody/tags/meiko-nakahara/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中原 めいこ</title>
+      <link>http://localhost:1313/tokyomelody/tags/%E4%B8%AD%E5%8E%9F-%E3%82%81%E3%81%84%E3%81%93/</link>
+      <pubDate>Sat, 08 Feb 2025 00:38:55 +0700</pubDate>
+      <guid>http://localhost:1313/tokyomelody/tags/%E4%B8%AD%E5%8E%9F-%E3%82%81%E3%81%84%E3%81%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Akina Nakamori</title>
+      <link>http://localhost:1313/tokyomelody/tags/akina-nakamori/</link>
+      <pubDate>Sat, 08 Feb 2025 00:28:58 +0700</pubDate>
+      <guid>http://localhost:1313/tokyomelody/tags/akina-nakamori/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中森明菜</title>
+      <link>http://localhost:1313/tokyomelody/tags/%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C/</link>
+      <pubDate>Sat, 08 Feb 2025 00:28:58 +0700</pubDate>
+      <guid>http://localhost:1313/tokyomelody/tags/%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
