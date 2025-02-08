@@ -7,6 +7,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 	mode="light"
+	favicon = "favicon.ico"
 	useCDN=false
 	subtitle = "A blog dedicated to preserving the beauty of Japanese City Pop lyrics, a music genre that blends pop, jazz, funk, and electronic touches from the 70s and 80s. Here, you can find song lyrics from various legendary artists, complete with translations and interpretations of their meanings. Tokyo Melody is here to take you on a journey through nostalgia and the dazzling nights of Tokyo, captured in the beautiful words of each song."
 
