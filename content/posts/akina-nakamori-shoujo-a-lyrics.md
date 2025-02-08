@@ -2,7 +2,7 @@
 date    : 2025-02-08T00:28:58+07:00
 draft   : false
 title   : 'Akina Nakamori Shoujo a Lyrics'
-description : "Shoujo A* is a song by Akina Nakamori, released in 1982 as part of her early discography. With its edgy rock-infused city pop sound and bold lyrics, the song portrays the rebellious spirit of a teenage girl navigating love and desire. Akina's powerful vocals, combined with the energetic instrumentation, make this track stand out as one of her signature hits. The song’s daring theme and confident delivery helped solidify her image as a strong and independent artist in the J-pop scene of the 80s."
+description : "Shoujo A is a song by Akina Nakamori, released in 1982 as part of her early discography. With its edgy rock-infused city pop sound and bold lyrics, the song portrays the rebellious spirit of a teenage girl navigating love and desire. Akina's powerful vocals, combined with the energetic instrumentation, make this track stand out as one of her signature hits. The song’s daring theme and confident delivery helped solidify her image as a strong and independent artist in the J-pop scene of the 80s."
 tags    : [Akina Nakamori, 中森明菜]
 ---
 ## Youtube video
