@@ -3,7 +3,7 @@ date    : 2025-02-08T00:39:05+07:00
 draft   : false
 title   : 'Anri Remember Summer Days Lyrics'
 description : "Remember Summer Days is a city pop song by Anri, released in 1983 as part of her album Timely!!. The song features a smooth melody and a relaxing atmosphere, capturing the essence of summer filled with memories. With its signature city pop arrangement and Anri’s soft vocals, the song takes listeners on a nostalgic journey to bright days by the seaside. The lyrics express longing for a summer romance that has passed, making it one of the iconic songs in the Japanese city pop genre."
-tags    : [Anri, 杏里)]
+tags    : [Anri, 杏里]
 ---
 ## Youtube video
 {{<youtube 3agC6do-624>}}
