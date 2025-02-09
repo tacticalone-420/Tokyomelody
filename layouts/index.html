@@ -25,6 +25,79 @@
 			</main>
 			{{ partial "footer.html" . }}
 		</div>
-		
+		<!-- Bubble Chat -->
+		<div id="live2d-chat"></div>
+		<!-- Tombol Close -->
+		<button id="close-live2d">X</button>
 	</body>
 </html>
+
+<script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.0.5/lib/L2Dwidget.min.js"></script>
+<script>
+	let characterVisible = true; // Variabel untuk mengecek status karakter
+
+	// Inisialisasi Live2D
+	L2Dwidget.init({
+	  model: {
+		jsonPath: "https://cdn.jsdelivr.net/npm/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json",
+		scale: 1
+	  },
+	  display: {
+		position: "right",
+		width: 150,
+		height: 300
+	  },
+	  mobile: {
+		show: true
+	  }
+	});
+
+	// Fungsi untuk menampilkan bubble chat
+	function showLive2DChat(message, duration = 3000) {
+	  if (!characterVisible) return; // Cegah chat muncul jika karakter ditutup
+
+	  let chatBox = document.getElementById("live2d-chat");
+	  chatBox.innerText = message;
+	  chatBox.style.display = "block";
+	  chatBox.style.opacity = "1";
+
+	  setTimeout(() => {
+		chatBox.style.opacity = "0";
+		setTimeout(() => {
+		  chatBox.style.display = "none";
+		}, 500);
+	  }, duration);
+	}
+
+	// Pesan random yang akan ditampilkan oleh karakter
+	const messages = [
+		"Don't forget to check out the latest articles! 📖",
+		"I'm here to keep you company! 💕",
+		"The weather looks great today, right? ☀️",
+		"You're looking cool today! 😎",
+		"Have you had enough water? Stay hydrated! 💧",
+		"Feeling tired? Take a short break! 😴",
+		"Keep pushing forward! You got this! 💪",
+		"I'm happy to see you here! 🥰"
+	];
+
+	// Tampilkan chat saat halaman dimuat
+	setTimeout(() => {
+	  showLive2DChat("Hello! Welcome to the website! 😊");
+	}, 2000);
+
+	// Tampilkan chat secara acak setiap beberapa detik
+	let chatInterval = setInterval(() => {
+	  let randomMessage = messages[Math.floor(Math.random() * messages.length)];
+	  showLive2DChat(randomMessage);
+	}, 15000);
+
+	// Fungsi untuk menutup karakter
+	document.getElementById("close-live2d").addEventListener("click", function () {
+	  characterVisible = false; // Set karakter tidak terlihat
+	  document.getElementById("live2dcanvas").style.display = "none"; // Sembunyikan karakter
+	  document.getElementById("close-live2d").style.display = "none"; // Sembunyikan tombol close
+	  document.getElementById("live2d-chat").style.display = "none"; // Sembunyikan chat
+	  clearInterval(chatInterval); // Hentikan pesan otomatis
+	});
+</script>

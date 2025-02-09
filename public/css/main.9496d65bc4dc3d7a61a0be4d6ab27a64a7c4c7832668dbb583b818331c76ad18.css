@@ -520,8 +520,8 @@ canvas#live2dcanvas {
 
 #close-live2d {
   position: fixed;
-  bottom: 430px; /* Naikkan tombol lebih tinggi */
-  right: 80px; /* Tetap sejajar di atas karakter */
+  bottom: 330px; /* Sesuaikan dengan posisi kepala karakter */
+  right: 80px; /* Posisi pas di atas karakter */
   background: red;
   color: white;
   border: none;
@@ -531,7 +531,7 @@ canvas#live2dcanvas {
   cursor: pointer;
   border-radius: 50%;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
-  z-index: 10000; /* Pastikan tombol ada di atas */
+  z-index: 10000; /* Pastikan di atas karakter */
 }
 
 #close-live2d:hover {

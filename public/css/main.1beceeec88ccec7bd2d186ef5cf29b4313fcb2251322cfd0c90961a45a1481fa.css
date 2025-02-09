@@ -520,7 +520,7 @@ canvas#live2dcanvas {
 
 #close-live2d {
   position: fixed;
-  bottom: 430px; /* Naikkan tombol lebih tinggi */
+  bottom: 380px; /* Naikkan tombol lebih tinggi */
   right: 80px; /* Tetap sejajar di atas karakter */
   background: red;
   color: white;

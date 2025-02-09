@@ -483,57 +483,27 @@ canvas#live2dcanvas {
 
 #live2d-chat {
   position: fixed;
-  bottom: 450px; /* Lebih tinggi dari karakter */
-  right: 180px; /* Sedikit menjauh dari karakter */
-  max-width: 250px;
-  background: #fff;
-  color: #333;
-  padding: 12px 18px;
-  border-radius: 18px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  bottom: 370px;
+  right: 330px; /* Geser lebih ke kiri agar tidak tertimpa */
+  max-width: 220px;
+  background: rgba(255, 255, 255, 0.95);
+  color: black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
   font-size: 14px;
   font-family: Arial, sans-serif;
   display: none;
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out, transform 0.3s ease-in-out;
-  transform: translateY(10px);
-  z-index: 9999;
+  transition: opacity 0.5s ease-in-out;
+  z-index: 9999; /* Pastikan bubble chat selalu di atas */
 }
 
-/* Efek balon chat */
 #live2d-chat::after {
   content: "";
   position: absolute;
-  bottom: -12px;
-  right: 25px;
-  border-width: 12px;
+  bottom: -10px;
+  right: 20px;
+  border-width: 10px;
   border-style: solid;
-  border-color: #fff transparent transparent transparent;
-}
-
-/* Efek muncul */
-.show-chat {
-  display: block !important;
-  opacity: 1 !important;
-  transform: translateY(0);
-}
-
-#close-live2d {
-  position: fixed;
-  bottom: 430px; /* Naikkan tombol lebih tinggi */
-  right: 80px; /* Tetap sejajar di atas karakter */
-  background: red;
-  color: white;
-  border: none;
-  padding: 5px 10px;
-  font-size: 16px;
-  font-weight: bold;
-  cursor: pointer;
-  border-radius: 50%;
-  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
-  z-index: 10000; /* Pastikan tombol ada di atas */
-}
-
-#close-live2d:hover {
-  background: darkred;
+  border-color: rgba(255, 255, 255, 0.95) transparent transparent transparent;
 }
